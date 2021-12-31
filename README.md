@@ -6,7 +6,7 @@
 - [go-delve/delve#1699](https://github.com/go-delve/delve/pull/1699)
 - [rgs1/zk_shell#99](https://github.com/rgs1/zk_shell/pull/99)
 - [jekyll/minima#111](https://github.com/jekyll/minima/pull/111)
-- [jnr/jnr-unixsocket#17](https://github.com/jnr/jnr-unixsocket/pull/17]
+- [jnr/jnr-unixsocket#17](https://github.com/jnr/jnr-unixsocket/pull/17)
 
 <!--
 **alxn/alxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
