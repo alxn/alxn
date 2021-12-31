@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- cilium/ebpf#493
+- bazelbuild/rules_go#2787
+- stretchr/testify#1022
+- go-delve/delve#1699
+- rgs1/zk_shell#99
+- jekyll/minima#111
+- jnr/jnr-unixsocket#17
+
 <!--
 **alxn/alxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
