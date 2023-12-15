@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- https://github.com/cilium/ebpf/pull/1192
 - [cilium/ebpf#493](https://github.com/cilium/ebpf/pull/493)
 - [bazelbuild/rules_go#2787](https://github.com/bazelbuild/rules_go/pull/2787)
 - [stretchr/testify#1022](https://github.com/stretchr/testify/pull/1022)
